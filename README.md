@@ -20,7 +20,6 @@
 
 
 ## ⚙️ Технологии
-```plaintext
 Python 3 + SQLite
 ├── PySide6 — GUI
 ├── Matplotlib — графики
